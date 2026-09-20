@@ -6,7 +6,7 @@
 
 **Professor:** Hermes Pimenta de Moraes Júnior
 
-**Alunos:** Giovane Felipe Godoi Oliveira, Luiz Fellipe Resende Lima, Vincent Collares Biazotti
+**Alunos:** Giovane Felipe Godoi Oliveira, Luiz Fellipe Resende Lima, Vincent Biazotti Collares
 
 ## Topologia e Opções de Endereçamento IP
 
