@@ -1,4 +1,4 @@
-## Este é um documento adicional que visa explicitar os aprendizados com a primeira etapa do trabalho de instalação.
+## Este é um documento adicional que visa explicitar os aprendizados com a primeira etapa do trabalho de instalação. A ideia é deixar o repositório mais completo. Esse material não deve ser usado para contemplar a avaliação do trabalho prático.
 
 # Tutorial – Etapa 1: Sincronização de Hora e Servidor Web em VMs Debian
 
